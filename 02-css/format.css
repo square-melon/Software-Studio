@@ -1,0 +1,30 @@
+body {
+    max-width: 80vw;
+    margin: auto;
+    background-image: url("snowstars.jpg");
+    background-position: center;
+}
+
+h1 {
+    margin: 2em;
+    text-align: center;
+    color: white;
+}
+
+div#txt {
+    background-color: rgb(196, 194, 194);
+    padding: 1em;
+    border: solid;
+    border: 5em;
+    border-color: white;
+}
+
+blockquote {
+    border-left:rgb(56, 55, 55) 0.3em solid;
+    padding-left: 10px;
+    margin: 0px;
+}
+
+p#date {
+    color: rgb(16, 128, 159);
+}
